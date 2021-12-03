@@ -1,0 +1,11 @@
+# 🥋 Convert "Regular" Shares to Secure Shares
+
+ALTER VIEW INTL_DB.PUBLIC.NATIONS_SAMPLE_PLUS_ISO
+SET SECURE; 
+
+ALTER VIEW INTL_DB.PUBLIC.SIMPLE_CURRENCY
+SET SECURE;
+
+#
+# Finished
+#
