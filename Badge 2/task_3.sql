@@ -13,3 +13,7 @@
 #🥋 Checklist Item #5 - Get the Inbound Share for the Reader Account
 
 #✔️ Code Checkpoint
+
+#
+# Finished
+#

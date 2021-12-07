@@ -1,0 +1,22 @@
+#Creating Database
+
+CREATE DATABASE BEETLE_DB;
+
+# Create Table
+
+CREATE OR REPLACE TABLE [avatar]_DB.PUBLIC.[avatar]_TBL(
+    id NUMBER(38,0), 
+    name STRING(10),
+    country VARCHAR(20), 
+    order_date DATE
+);
+
+
+
+
+USE ROLE SECURITYADMIN;
+ALTER USER miguel_estrada_sbx
+SET
+DEFAULT_ROLE=TRAINING_ROLE
+DEFAULT_NAMESPACE=BEETLE_DB.PUBLIC
+DEFAULT_WAREHOUSE=BEETLE_WH;
