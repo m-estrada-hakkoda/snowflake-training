@@ -53,3 +53,7 @@ In this Github Repository all of the solutions to each of the named workshops an
     - [ ] Workshop 1
     - [ ] Workshop 2
     - [ ] Workshop 3
+
+### Author
+
+- Miguel Estrada: [miguel_estrada@hakkoda.io](mailto:miguel_estrada@hakkoda.io)
