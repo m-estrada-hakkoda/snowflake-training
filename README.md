@@ -18,8 +18,8 @@ In this Github Repository all of the solutions to each of the named workshops an
   - [ ] Badge Number 3
 
 - For the following tests, the grade should be 85 or higher:
-  - [ ] Lesson Only
-    - [ ] Snowpro Core W4 T1 / Exam 4
+  - [x] Lesson Only
+    - [x] Snowpro Core W4 T1 / Exam 4
 
   - [ ] Udemy Mock Tests
     - [ ] Mock Test 3
