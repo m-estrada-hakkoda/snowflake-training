@@ -50,7 +50,7 @@ In this Github Repository all of the solutions to each of the named workshops an
     - [ ] Lab 18
 
   - [ ] All Workshops done
-    - [ ] Workshop 1
+    - [x] Workshop 1
     - [ ] Workshop 2
     - [ ] Workshop 3
 

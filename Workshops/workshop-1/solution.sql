@@ -14,6 +14,10 @@ DISTRICT NUMBER(4,0),
 COMMENT 'This is Miguel Estrada Workshop number 1'
 );
 
+#Defining context
+USE DATABASE "BEETLE_WORKSHOPS";
+USE SCHEMA "BEETLE_WORKSHOPS_SCHEMA";
+
 #Granting access to all
 ;
 
