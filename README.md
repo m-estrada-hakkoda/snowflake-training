@@ -10,6 +10,8 @@ In this Github Repository all of the solutions to each of the named workshops an
 
 - Snowpro Certification Preparation:snowflake:
 
+**Where can I find some notes regarding the topics seen:** [Notes Google Drive File](https://docs.google.com/document/d/162gV1g6Q9Sh7hvuc6Ji333HJc_IUs8Al03oEo9RLUgI/edit?usp=sharing)
+
 ## Activities
 
 - [ ] Badges completition
