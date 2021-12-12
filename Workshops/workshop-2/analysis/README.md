@@ -7,21 +7,29 @@ Historical stock market data for current ***S&P 500 companies***, from 2014-2017
 ### Questions
 
 - Which date in the sample saw the largest overall trading volume?  
+  - **Answer:** 
+    - 2014-02-24 00:00:00.000 -0800
   - On that date, which two stocks were traded most?
+    - **Answer:** 
+      - VZ
+      - BAC
 
 - On which day of the week does volume tend to be highest? Lowest?
+  - **Highest | Answer:** 
+    - Friday (Highest)
+    - Thursday (2nd highest)
+  - **Lowest | Answer:** 
+    - Monday (Lowest)
+    - Tuesday (2nd lowest)
 
 - On which date did Amazon (AMZN) see the most volatility, measured by the difference between the high and low price?
+  - **Answer:** 
+    - 2017-06-09
+
 
 - If you could go back in time and invest in one stock from 1/2/2014 - 12/29/2017, which would you choose? 
+  - **Answer:** 
+    - 2017-06-09
   - What % gain would you realize?
-
-### Answers
-
-
-- a
-  - a
-- a
-- a
-- a
-  - a
+    - **Answer:** 
+      - 2017-06-09
