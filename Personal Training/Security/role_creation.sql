@@ -1,0 +1,24 @@
+
+#Creating role;
+
+CREATE ROLE BEETLE_CLASSIFIED
+   COMMENT = 'This BEETLE Role, will grant access to the BEETLE private database';
+
+#Granting access to my databases;
+
+GRANT USAGE
+    ON DATABASE "BEETLE_WORKSHOPS"
+    TO ROLE BEETLE_CLASSIFIED;
+
+GRANT USAGE
+    ON DATABASE "BEETLE_DB"
+    TO ROLE BEETLE_CLASSIFIED;
+
+#Granting role to my user;
+GRANT ROLE SYSADMIN, SECURITYADMIN, TRAINING_ROLE TO ROLE BEETLE_CLASSIFIED;
+
+GRANT ROLE BEETLE_CLASSIFIED
+    TO USER miguel_estrada_sbx;
+
+GRANT ROLE BEETLE_CLASSIFIED
+    TO USER victor_gomez_sbx;

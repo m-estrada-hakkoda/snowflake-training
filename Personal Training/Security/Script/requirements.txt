@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+snowflake-connector-python[secure-local-storage,pandas]
+email
+smtplib
+base64

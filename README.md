@@ -10,7 +10,13 @@ In this Github Repository all of the solutions to each of the named workshops an
 
 - Snowpro Certification Preparation:snowflake:
 
+---
+
 **Where can I find some notes regarding the topics seen:** [Notes Google Drive File](https://docs.google.com/document/d/162gV1g6Q9Sh7hvuc6Ji333HJc_IUs8Al03oEo9RLUgI/edit?usp=sharing)
+
+---
+
+Also, feel free to checkout my latest 
 
 ## Activities
 
@@ -20,15 +26,21 @@ In this Github Repository all of the solutions to each of the named workshops an
   - [ ] Badge Number 3
 
 - For the following tests, the grade should be 85 or higher:
+
+  - [x] Google Form Tests
+    - [x] Google Form Test 1
+    - [x] Google Form Test 2
+    - [x] Google Form Test 3
+
   - [x] Lesson Only
     - [x] Snowpro Core W4 T1 / Exam 4
 
   - [ ] Udemy Mock Tests
-    - [ ] Mock Test 3
+    - [x] Mock Test 3
     - [ ] Practice Test 5 
     - [ ] Practice Test 6
     - [ ] Learn n' discover Snowflake Kit 5
-    - [ ] Learn n' discover Snowflake Kit 6
+    - [x] Learn n' discover Snowflake Kit 6
 
 - Technical training and theory understanding
   - [ ] All Hands-on Labs done
@@ -36,25 +48,25 @@ In this Github Repository all of the solutions to each of the named workshops an
     - [x] Lab 2
     - [x] Lab 3
     - [x] Lab 4
-    - [ ] Lab 5
-    - [ ] Lab 6
-    - [ ] Lab 7
-    - [ ] Lab 8
-    - [ ] Lab 9
-    - [ ] Lab 10
-    - [ ] Lab 11
-    - [ ] Lab 12
-    - [ ] Lab 13
-    - [ ] Lab 14
-    - [ ] Lab 15
-    - [ ] Lab 16
-    - [ ] Lab 17
-    - [ ] Lab 18
+    - [x] Lab 5
+    - [x] Lab 6
+    - [x] Lab 7
+    - [x] Lab 8
+    - [x] Lab 9
+    - [x] Lab 10
+    - [x] Lab 11
+    - [x] Lab 12
+    - [x] Lab 13
+    - [x] Lab 14
+    - [x] Lab 15
+    - [x] Lab 16
+    - [x] Lab 17
+    - [x] Lab 18
 
-  - [ ] All Workshops done
+  - [x] All Workshops done
     - [x] Workshop 1
-    - [ ] Workshop 2
-    - [ ] Workshop 3
+    - [x] Workshop 2
+    - [x] Workshop 3
 
 ### Author
 
