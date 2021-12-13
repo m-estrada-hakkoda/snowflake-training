@@ -1,0 +1,21 @@
+DESCRIBE STAGE HAKKODA_TRAIN.BASIC.SF_STAGE;
+
+LIST @hakkoda_train.basic.sf_stage pattern='.*region.*';
+
+COPY INTO REGION
+FROM @HAKKODA_TRAIN.BASIC.SF_STAGE
+FILES = ('region.tbl')
+FILE_FORMAT = (FORMAT_NAME = MYPIPEFORMAT);
+
+SELECT * FROM REGION;
+
+TRUNCATE TABLE region;
+
+create or replace table REGION as 
+select * from SNOWFLAKE_SAMPLE_DATA.TPCH_SF1.REGION;
+
+COPY INTO @%region
+FROM region
+FILE_FORMAT = (FORMAT_NAME = MYPIPEFORMAT);
+
+LIST @%region;
