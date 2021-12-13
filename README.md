@@ -1,5 +1,11 @@
 # Snowflake Training
 
+### Exams taken from 13 of December, 2021
+| Date     | User           | Item        |
+| -------- | -------------- | ----------- |
+| 11/11/21 | Miguel Estrada | Initial Doc |
+
+
 ### What is this Github Repository :snowflake: ?
 
 In this Github Repository all of the solutions to each of the named workshops and hands-on labs will be found.
