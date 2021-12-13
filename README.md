@@ -29,8 +29,8 @@ Also, feel free to checkout my latest
 
   - [x] Google Form Tests
     - [x] Google Form Test 1
-    - [x] Google Form Test 2
-    - [x] Google Form Test 3
+    - [ ] Google Form Test 2
+    - [ ] Google Form Test 3
 
   - [x] Lesson Only
     - [x] Snowpro Core W4 T1 / Exam 4
@@ -43,7 +43,7 @@ Also, feel free to checkout my latest
     - [x] Learn n' discover Snowflake Kit 6
 
 - Technical training and theory understanding
-  - [ ] All Hands-on Labs done
+  - [x] All Hands-on Labs done
     - [x] Lab 1
     - [x] Lab 2
     - [x] Lab 3

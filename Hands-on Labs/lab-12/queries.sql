@@ -1,0 +1,2 @@
+SELECT C_name, C_address, order_cnt(C_custkey)
+FROM "SNOWFLAKE_SAMPLE_DATA"."TPCH_SF1"."CUSTOMER" LIMIT 10;
