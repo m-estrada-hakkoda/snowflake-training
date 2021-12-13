@@ -16,15 +16,33 @@ In this Github Repository all of the solutions to each of the named workshops an
 
 - Snowpro Certification Preparation:snowflake:
 
----
 
 **Where can I find some notes regarding the topics seen:** [Notes Google Drive File](https://docs.google.com/document/d/162gV1g6Q9Sh7hvuc6Ji333HJc_IUs8Al03oEo9RLUgI/edit?usp=sharing)
 
----
 
-Also, feel free to checkout my latest 
+## Hakkoda study plannification
 
-## Activities
+The following information can be checked at: [Hakkoda - Study Plan](https://hakkoda.atlassian.net/wiki/spaces/OPERATIONS/pages/164203/Hakkoda+-+New+Hire+Onboarding+Process)
+
+#### Check that you have completed:
+
+- [ ] SnowPro Course
+- [ ] Data Sharing Badge
+- [x] Hands-on Labs (have completed all 18 labs)
+
+
+#### Complete next 8 practice Test with 85 or highest score
+
+- [x] Complete Test 1 (google form of Hakkoda)
+- [x] UDemy. Mock Tests / Snowflake SnowPro Core Certification → Mock 3 Complete Test
+- [ ] UDemy. Snowflake Certification Preparation → Practice Test 5
+- [ ] UDemy. Snowflake Certification Preparation → Practice Test 6
+- [ ] UDemy. [new] Snowflake SnowPro Core Certification Exam → Learn n' Discover Snowflake Kit 5
+- [ ] UDemy. [new] Snowflake SnowPro Core Certification Exam → Learn n' Discover Snowflake Kit 6
+- [x] SnowPro Core W4 T1 / Exam 4 Training Snowflake, request access in Hakkoda LMS
+- [ ] Complete Test 3 (google form of Hakkoda)
+
+## Action Plan --> Activities
 
 - [ ] Badges completition
   - [x] Badge Number 1
@@ -43,7 +61,7 @@ Also, feel free to checkout my latest
     - [ ] Snowpro Core W4 T1 / Exam 4
 
   - [ ] Udemy Mock Tests
-    - [ ] Mock Test 3
+    - [x] Mock Test 3
     - [ ] Practice Test 5 
     - [ ] Practice Test 6
     - [ ] Learn n' discover Snowflake Kit 5
