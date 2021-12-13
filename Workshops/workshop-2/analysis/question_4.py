@@ -7,9 +7,12 @@ profit_amzn_o = list()
 profit_eqix_o = list()
 profit_amzn_c = list()
 profit_eqix_c = list()
+
 if __name__ == "__main__":
+
     DATAFRAME = pd.read_csv('gross_information.csv')
     DATAFRAME_GRAPH = pd.read_csv('report_information.csv')
+    
     for index, row in DATAFRAME.iterrows():
         if row["SYMBOL"] == 'EQIX':
             profit_eqix_o.append(row["OPEN_STOCK"])

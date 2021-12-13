@@ -3,4 +3,4 @@
 Explore semi-structured json data
 
 - Table not found:
-    - isd_2019_total;
+    - isd_2019_total

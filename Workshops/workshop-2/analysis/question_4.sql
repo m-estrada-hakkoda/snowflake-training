@@ -1,5 +1,6 @@
 #Risk perspective;
 ;
+
 SELECT SYMBOL,
     SUM(VOLUME) AS TOTAL_VOLUME, 
     AVG(VOLUME) AS AVG_VOLUME, 
@@ -11,12 +12,11 @@ SELECT SYMBOL,
     FROM "STOCKS"
     WHERE DATE >= '2014-01-02'::timestamp_ltz AND DATE <= '2017-12-29'::timestamp_ltz
     GROUP BY SYMBOL
-    ORDER BY VOLATILITY ASC, TOTAL_VOLUME ASC;
-;
+    ORDER BY VOLATILITY DESC, TOTAL_VOLUME ASC;
 
 #Getting information for calculus;
 ;
 
 SELECT * FROM "BEETLE_WORKSHOPS"."PUBLIC"."STOCKS"
-    WHERE DATE IN ('2017-12-29'::timestamp_ltz, '2014-01-02'::timestamp_ltz) AND SYMBOL = 'HBAN';
+    WHERE DATE IN ('2017-12-29'::timestamp_ltz, '2014-01-02'::timestamp_ltz) AND SYMBOL = 'EQIX', VOLUME = (select max(volume) from 'stocks');
 
