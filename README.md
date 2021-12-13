@@ -32,17 +32,18 @@ Also, feel free to checkout my latest
     - [ ] Google Form Test 2
     - [ ] Google Form Test 3
 
-  - [x] Lesson Only
+  - [ ] Lesson Only
     - [x] Snowpro Core W4 T1 / Exam 4
+    - [ ] Snowpro Core W4 T1 / Exam 4
 
   - [ ] Udemy Mock Tests
-    - [x] Mock Test 3
+    - [ ] Mock Test 3
     - [ ] Practice Test 5 
     - [ ] Practice Test 6
     - [ ] Learn n' discover Snowflake Kit 5
-    - [x] Learn n' discover Snowflake Kit 6
+    - [ ] Learn n' discover Snowflake Kit 6
 
-- Technical training and theory understanding
+- [x] Technical training and theory understanding
   - [x] All Hands-on Labs done
     - [x] Lab 1
     - [x] Lab 2
