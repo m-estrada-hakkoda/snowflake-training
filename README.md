@@ -28,7 +28,7 @@ The following information can be checked at: [Hakkoda - Study Plan](https://hakk
 
 - [ ] SnowPro Course
 - [ ] Data Sharing Badge
-- [x] Hands-on Labs (have completed all 18 labs)
+- [x] Hands-on Labs (have completed all 18 labs) 
 
 
 #### Complete next 8 practice Test with 85 or highest score
