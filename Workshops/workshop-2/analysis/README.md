@@ -26,10 +26,14 @@ Historical stock market data for current ***S&P 500 companies***, from 2014-2017
   - **Answer:** 
     - 2017-06-09
 
-
 - If you could go back in time and invest in one stock from 1/2/2014 - 12/29/2017, which would you choose? 
   - **Answer:** 
-    - 2017-06-09
+    - AMZN or EQIX (Best profit if withdrawn on time)
   - What % gain would you realize?
     - **Answer:** 
-      - 2017-06-09
+      - AMZN (Open price profit):  66.27 %
+      - AMZN (Close price profit):  65.97 %
+      - EQIX (Open price profit):  61.00 %
+      - EQIX (Close price profit):  61.44 %
+
+    - This profit margin calculation does not take in count the highest point of EQIX's stocks.
