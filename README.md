@@ -28,7 +28,7 @@ The following information can be checked at: [Hakkoda - Study Plan](https://hakk
 
 - [x] Complete Test 1 (google form of Hakkoda)
 - [x] UDemy. Mock Tests / Snowflake SnowPro Core Certification → Mock 3 Complete Test
-- [ ] UDemy. Snowflake Certification Preparation → Practice Test 5
+- [x] UDemy. Snowflake Certification Preparation → Practice Test 5
 - [x] UDemy. Snowflake Certification Preparation → Practice Test 6
 - [ ] UDemy. [new] Snowflake SnowPro Core Certification Exam → Learn n' Discover Snowflake Kit 5
 - [ ] UDemy. [new] Snowflake SnowPro Core Certification Exam → Learn n' Discover Snowflake Kit 6
@@ -55,7 +55,7 @@ The following information can be checked at: [Hakkoda - Study Plan](https://hakk
 
   - [ ] Udemy Mock Tests
     - [x] Mock Test 3
-    - [ ] Practice Test 5 
+    - [x] Practice Test 5 
     - [x] Practice Test 6
     - [ ] Learn n' discover Snowflake Kit 5
     - [ ] Learn n' discover Snowflake Kit 6
