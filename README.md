@@ -1,11 +1,5 @@
 # Snowflake Training
 
-### Exams taken from 13 of December, 2021
-| Date     | User           | Item        |
-| -------- | -------------- | ----------- |
-| 11/11/21 | Miguel Estrada | Initial Doc |
-
-
 ### What is this Github Repository :snowflake: ?
 
 In this Github Repository all of the solutions to each of the named workshops and hands-on labs will be found.
@@ -26,21 +20,20 @@ The following information can be checked at: [Hakkoda - Study Plan](https://hakk
 
 #### Check that you have completed:
 
-- [ ] SnowPro Course
+- [x] SnowPro Course
 - [ ] Data Sharing Badge
 - [x] Hands-on Labs (have completed all 18 labs) 
-
 
 #### Complete next 8 practice Test with 85 or highest score
 
 - [x] Complete Test 1 (google form of Hakkoda)
 - [x] UDemy. Mock Tests / Snowflake SnowPro Core Certification → Mock 3 Complete Test
 - [ ] UDemy. Snowflake Certification Preparation → Practice Test 5
-- [ ] UDemy. Snowflake Certification Preparation → Practice Test 6
+- [x] UDemy. Snowflake Certification Preparation → Practice Test 6
 - [ ] UDemy. [new] Snowflake SnowPro Core Certification Exam → Learn n' Discover Snowflake Kit 5
 - [ ] UDemy. [new] Snowflake SnowPro Core Certification Exam → Learn n' Discover Snowflake Kit 6
 - [x] SnowPro Core W4 T1 / Exam 4 Training Snowflake, request access in Hakkoda LMS
-- [ ] Complete Test 3 (google form of Hakkoda)
+- [x] Complete Test 3 (google form of Hakkoda)
 
 ## Action Plan --> Activities
 
@@ -53,17 +46,17 @@ The following information can be checked at: [Hakkoda - Study Plan](https://hakk
 
   - [x] Google Form Tests
     - [x] Google Form Test 1
-    - [ ] Google Form Test 2
-    - [ ] Google Form Test 3
+    - [x] Google Form Test 2
+    - [x] Google Form Test 3
 
-  - [ ] Lesson Only
+  - [x] Lesson Only
     - [x] Snowpro Core W4 T1 / Exam 4
-    - [ ] Snowpro Core W4 T1 / Exam 4
+    - [ ] Snowpro Core W4 T2
 
   - [ ] Udemy Mock Tests
     - [x] Mock Test 3
     - [ ] Practice Test 5 
-    - [ ] Practice Test 6
+    - [x] Practice Test 6
     - [ ] Learn n' discover Snowflake Kit 5
     - [ ] Learn n' discover Snowflake Kit 6
 
@@ -91,7 +84,7 @@ The following information can be checked at: [Hakkoda - Study Plan](https://hakk
   - [x] All Workshops done
     - [x] Workshop 1
     - [x] Workshop 2
-    - [x] Workshop 3
+    - [ ] Workshop 3
 
 ### Author
 
